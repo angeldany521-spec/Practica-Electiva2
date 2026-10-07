@@ -2,7 +2,7 @@ name: Despliegue con Surge
 
 on:
   push:
-    branches: [ main ]
+    branches: [ parcial1 ]
 
 jobs:
   deploy:
