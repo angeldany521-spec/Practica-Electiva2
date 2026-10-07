@@ -24,6 +24,6 @@ jobs:
 
       - name: Enviar alerta a ntfy.sh
         run: |
-          curl -d "¡Hola Mundo en Python! Código subido a la rama main con éxito. Angel Sanchez 2025-1039" ntfy.sh/devops-itla
+          curl -d "¡Hola Mundo en Python! Código subido a la rama main con éxito. Angel Sanchez 2025-1039" https://ntfy.sh/devops-itla
 
       
